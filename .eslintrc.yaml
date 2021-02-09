@@ -1,0 +1,9 @@
+parser: "@babel/eslint-parser"
+
+env:
+  browser: true
+  node: true
+
+rules:
+  semi: error
+  no-undef: error
